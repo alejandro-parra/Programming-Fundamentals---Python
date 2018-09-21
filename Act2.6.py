@@ -1,0 +1,16 @@
+import math
+print("Escribe tu valor de x1: ")
+x1=input()
+print("Escribe tu valor de x2: ")
+x2=input()
+print("Escribe tu valor de y1: ")
+y1=input()
+print("Escribe tu valor de y2: ")
+y2=input()
+
+x1=float(x1)
+x2=float(x2)
+y1=float(y1)
+y2=float(y2)
+D=math.sqrt((x2-x1)**2+(y2-y1)**2)
+print("Distancia entre las dos coordenadas: "+str(D))

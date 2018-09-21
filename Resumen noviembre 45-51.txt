@@ -1,0 +1,71 @@
+Semana del 45 al 51 de noviembre:
+
+Número de línea: 1
+Turno: 1
+Total de productos de la semana: 0
+Veces que se detuvo la línea: 0
+Día en que más veces se detuvo la línea: lunes
+Turno: 2
+Total de productos de la semana: 0
+Veces que se detuvo la línea: 0
+Día en que más veces se detuvo la línea: lunes
+Turno: 3
+Total de productos de la semana: 0
+Veces que se detuvo la línea: 0
+Día en que más veces se detuvo la línea: lunes
+
+Número de línea: 2
+Turno: 1
+Total de productos de la semana: 0
+Veces que se detuvo la línea: 0
+Día en que más veces se detuvo la línea: lunes
+Turno: 2
+Total de productos de la semana: 0
+Veces que se detuvo la línea: 0
+Día en que más veces se detuvo la línea: lunes
+Turno: 3
+Total de productos de la semana: 0
+Veces que se detuvo la línea: 0
+Día en que más veces se detuvo la línea: lunes
+
+Número de línea: 3
+Turno: 1
+Total de productos de la semana: 0
+Veces que se detuvo la línea: 0
+Día en que más veces se detuvo la línea: lunes
+Turno: 2
+Total de productos de la semana: 0
+Veces que se detuvo la línea: 0
+Día en que más veces se detuvo la línea: lunes
+Turno: 3
+Total de productos de la semana: 0
+Veces que se detuvo la línea: 0
+Día en que más veces se detuvo la línea: lunes
+
+Número de línea: 4
+Turno: 1
+Total de productos de la semana: 0
+Veces que se detuvo la línea: 0
+Día en que más veces se detuvo la línea: lunes
+Turno: 2
+Total de productos de la semana: 0
+Veces que se detuvo la línea: 0
+Día en que más veces se detuvo la línea: lunes
+Turno: 3
+Total de productos de la semana: 0
+Veces que se detuvo la línea: 0
+Día en que más veces se detuvo la línea: lunes
+
+Número de línea: 5
+Turno: 1
+Total de productos de la semana: 0
+Veces que se detuvo la línea: 0
+Día en que más veces se detuvo la línea: lunes
+Turno: 2
+Total de productos de la semana: 0
+Veces que se detuvo la línea: 0
+Día en que más veces se detuvo la línea: lunes
+Turno: 3
+Total de productos de la semana: 0
+Veces que se detuvo la línea: 0
+Día en que más veces se detuvo la línea: lunes
